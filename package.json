@@ -14,5 +14,9 @@
     "node": ">=16.17.0 <17",
     "pnpm": ">=7.30.5"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.17.16",
+    "typescript": "^5.0.4"
+  }
 }
