@@ -1,5 +1,5 @@
 {
-  "name": "shared",
+  "name": "@services/my-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
   "dependencies": {
-    "farmhash": "^3.3.0"
-  }
+    "@shared/metrics": "workspace:*"
+  },
+  "license": "ISC"
 }
