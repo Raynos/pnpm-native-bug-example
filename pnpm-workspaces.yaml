@@ -1,0 +1,6 @@
+packages:
+  - deployments/*
+  - shared/*
+  - services/*
+  - tools/*
+
